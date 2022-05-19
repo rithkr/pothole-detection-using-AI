@@ -1,2 +1,3 @@
 #try
-..
+
+Pothole and Traffic detection using AI and proximity sensor
